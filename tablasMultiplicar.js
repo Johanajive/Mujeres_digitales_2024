@@ -5,5 +5,5 @@ for (let tabla = 1; tabla <= 10; tabla++) {
         console.log(`${tabla} X ${indice} = ${tabla * indice}`);
     }
 
-    console.log("<----------------------->");
+    console.log("<---------------------->");
 }
